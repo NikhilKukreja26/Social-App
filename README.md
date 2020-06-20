@@ -4,3 +4,5 @@
 <li>Vertical Drag Animation</li>
 <li>Tween Sequence Animation</li>
 </ol>
+
+![](screenshot/video.mp4)
